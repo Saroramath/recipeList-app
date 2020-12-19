@@ -1,0 +1,13 @@
+{
+  "appId": "org.example.dailymoments.shivam",
+  "appName": "Moments",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}
