@@ -1,6 +1,6 @@
 {
-  "appId": "org.example.dailymoments.shivam",
-  "appName": "Moments",
+  "appId": "org.example.recipe.shivam",
+  "appName": "Recipe",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

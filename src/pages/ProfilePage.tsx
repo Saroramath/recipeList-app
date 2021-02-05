@@ -8,20 +8,20 @@ import {
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const SettingsPage: React.FC = () => {
+const ProfilePage: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Settings Page</IonTitle>
+          <IonTitle>Profile Page</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
-      This is settings page
+      This is your profile. You saved a lot!!
       {/* Go to <IonRouterLink routerLink='/home'>Home</IonRouterLink> */}
       </IonContent>
     </IonPage>
   );
 };
 
-export default SettingsPage;
+export default ProfilePage;
